@@ -1,4 +1,4 @@
-# Using PAT (Personal Access Token) Clone to Git with HTTP or HTTPS instead of SSH
+# Using PAT (Personal Access Token) to Clone Git with HTTP or HTTPS instead of SSH
 This is only a documentation for cloning git repo using personal access token using http or https
 
 If you have BitBucket or Git repo you have options to clone your repo using either SSH or HTTPS-PAT (Personal Access Token).
